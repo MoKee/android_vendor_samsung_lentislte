@@ -21,7 +21,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/lentislte/proprietary/vendor/lib/libdiag.so:system/vendor/lib/libdiag.so \
     vendor/samsung/lentislte/proprietary/vendor/lib/libdsutils.so:system/vendor/lib/libdsutils.so \
     vendor/samsung/lentislte/proprietary/vendor/lib/libidl.so:system/vendor/lib/libidl.so \
-    vendor/samsung/lentislte/proprietary/vendor/lib/libnetmgr.so:system/vendor/lib/libnetmgr.so \
     vendor/samsung/lentislte/proprietary/vendor/lib/libqcci_legacy.so:system/vendor/lib/libqcci_legacy.so \
     vendor/samsung/lentislte/proprietary/vendor/lib/libqmi.so:system/vendor/lib/libqmi.so \
     vendor/samsung/lentislte/proprietary/vendor/lib/libqmi_cci.so:system/vendor/lib/libqmi_cci.so \
@@ -36,6 +35,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/lentislte/proprietary/bin/mdm_helper_proxy:system/bin/mdm_helper_proxy \
     vendor/samsung/lentislte/proprietary/bin/qcks:system/bin/qcks \
     vendor/samsung/lentislte/proprietary/bin/qmuxd:system/bin/qmuxd \
+    vendor/samsung/lentislte/proprietary/bin/radish:system/bin/radish \
     vendor/samsung/lentislte/proprietary/bin/rild:system/bin/rild \
     vendor/samsung/lentislte/proprietary/bin/rmnetcli:system/bin/rmnetcli \
     vendor/samsung/lentislte/proprietary/lib/libmdmdetect.so:system/lib/libmdmdetect.so \
